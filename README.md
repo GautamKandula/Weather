@@ -1,4 +1,4 @@
-#notes for use
+notes for use
 
 Project created with Node JS, React, Vite
 
